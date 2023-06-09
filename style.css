@@ -1,0 +1,56 @@
+html {
+	position: relative;
+}
+
+body {
+	margin-bottom: 50px;
+}
+
+.jumbotron img {
+	width: 30%;
+	border: 5px solid rgb(78,68,102);
+}
+
+hr {
+	width: 200px;
+	border-top: 3px solid rgb(78,68,102);
+}
+
+section {
+	min-height: 420px;
+}
+
+.portfolio {
+	background-color:rgb(82,109,133);
+}
+
+.contact {
+	min-height: 800px;
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 50px;
+	background-color:rgb(78,68,102);
+	padding-top: 12px;
+}
+
+footer p {
+	color: #aaa;
+	font-size: 0.9em;
+}
+
+footer p i {
+	color: salmon;
+}
+
+.col-md-5{
+    text-align: justify;
+    color: rgb(78,68,102);
+}
+
+.flex-container {
+    display: flex;
+}
